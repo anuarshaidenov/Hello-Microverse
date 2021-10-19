@@ -13,6 +13,22 @@
 - Write a descriptive and easy to understand README in business English for every project submitted.
 - Demonstrate an ability to submit a project for code review.
 
+## Installation
+
+1. Clone the repo using
+
+```
+git clone https://github.com/anuarshaidenov/Hello-Microverse.git
+```
+
+2. cd into the cloned repository
+
+```
+cd Hello-Microverse
+```
+
+3. Use the files.
+
 ## Author
 
 - GitHub: [@anuarshaidenov](https://github.com/anuarshaidenov)
